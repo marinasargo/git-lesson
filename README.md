@@ -1,2 +1,2 @@
 # git-lesson
-I am editing this file here.
+This is my repo for the git lesson
